@@ -21,7 +21,7 @@ git clone https://github.com/udacity/FCND-Term1-Starter-Kit.git
 cd FCND-Term1-Starter-Kit
 ```
 
-On windows `meta_windows_patch.yml` rename `meta.yml`
+On windows rename `meta_windows_patch.yml` to `meta.yml`
 
 The next step will take around 30 min to complete
 
